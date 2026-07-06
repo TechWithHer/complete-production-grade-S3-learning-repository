@@ -1,4 +1,4 @@
-i# Chapter 8 — Amazon S3 Storage Classes: Choosing the Right Storage for Performance and Cost
+# Chapter 8 — Amazon S3 Storage Classes: Choosing the Right Storage for Performance and Cost
 
 > **Difficulty:** Intermediate
 >
