@@ -1,11 +1,3 @@
-I think **Chapter 10** should be the last "core operations" chapter before moving into advanced S3 capabilities. By this point, the learner has built a secure, versioned, replicated, encrypted, and cost-optimized S3 environment. Now they need to answer an important question:
-
-> **"How do I know what's happening inside my S3 environment?"**
-
-This chapter focuses on **visibility, auditing, monitoring, and troubleshooting**—skills every Cloud Engineer uses in production.
-
----
-
 # Chapter 10 — Amazon S3 Logging & Auditing
 
 > **Difficulty:** Intermediate
