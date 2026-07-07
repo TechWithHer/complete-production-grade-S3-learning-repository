@@ -1,8 +1,11 @@
 # Chapter 11 — Amazon S3 Static Website Hosting
 
-> **Difficulty:** Intermediate
+> **Difficulty:** Intermediate 
+
 > **AWS Services Used:** Amazon S3, AWS IAM (Optional), Amazon Route 53 (High-Level)
+
 > **Lab Type:** Hands-on
+
 > **Production Relevance:** ★★★★☆
 
 ---
