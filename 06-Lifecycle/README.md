@@ -483,19 +483,6 @@ Review and edit the Lifecycle Rule before it affects production data.
 
 ---
 
-# Recap
-
-In Part 1, you learned how to:
-
-* Create Lifecycle Rules
-* Apply rules using prefix filters
-* Automatically expire objects
-* Understand lifecycle evaluation
-* Configure multiple lifecycle policies for a single bucket
-
-In this part, we'll explore the advanced features that production engineers rely on every day.
-
----
 
 # Understanding Versioning and Lifecycle
 
