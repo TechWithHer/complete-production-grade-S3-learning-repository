@@ -3,7 +3,8 @@
 *A complete production-grade Amazon S3 learning repository designed to take learners from foundational concepts to enterprise-scale architectures through hands-on, production-focused labs.*
 
 Related Videos: 
-[https://www.youtube.com/watch?v=Pg7jv8FHc-8&t=237s]
+
+![https://www.youtube.com/watch?v=Pg7jv8FHc-8&t=237s](AWS S3 | Buckets, Objects & Hands-on Demo | Production Level)
 
 Unlike traditional tutorials that focus only on creating a bucket and uploading files, this repository is built as a comprehensive engineering workshop. It combines official AWS best practices, real-world scenarios, architecture design, security, automation, cost optimization, and troubleshooting into a structured learning experience.
 
