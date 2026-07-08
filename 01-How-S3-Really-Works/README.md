@@ -46,7 +46,6 @@ After completing this chapter, you will be able to:
 # What Is Object Storage?
 
 Object storage is a method of storing data as individual objects rather than as files in directories or blocks on disks.
-
 Each object stored in Amazon S3 contains three components:
 
 * The data itself.
