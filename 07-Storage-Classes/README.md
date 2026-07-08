@@ -1,4 +1,4 @@
-# Chapter 7 — Amazon S3 Storage Classes: Optimizing Storage for Cost, Performance, and Availability (Part 1)
+# Chapter 7 — Amazon S3 Storage Classes: Optimizing Storage for Cost, Performance, and Availability
 
 > **Difficulty:** Intermediate → Advanced
 >
