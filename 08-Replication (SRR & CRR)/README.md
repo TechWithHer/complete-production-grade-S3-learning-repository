@@ -487,43 +487,7 @@ This reduces operational risk while improving workload isolation.
 
 ---
 
-# End of Part 1
-
-In **Part 2**, you'll learn:
-
-* Cross-Region Replication configuration
-* Replicating encrypted objects (SSE-KMS)
-* Replication Time Control (RTC)
-* Replicating existing objects
-* Replication metrics
-* Production disaster recovery architectures
-* Cost considerations
-* Troubleshooting replication failures
-* Interview questions
-* Architect Challenge Lab
-* Cleanup
-* Key Takeaways
-
-By the end of Chapter 8, you'll understand how enterprise organizations use Amazon S3 Replication to build highly available, compliant, and disaster-resilient storage platforms.
-
 # Chapter 8 — Amazon S3 Replication: Building Highly Available and Disaster-Resilient Storage (Part 2)
-
-> **Continuation from Part 1**
-
----
-
-# Recap
-
-In Part 1, you learned:
-
-* Why Amazon S3 Replication exists
-* Same-Region Replication (SRR)
-* Cross-Region Replication (CRR)
-* Replication prerequisites
-* How to configure SRR
-* How to verify replication
-
-In this chapter, you'll complete the replication journey by exploring advanced production features, monitoring, troubleshooting, and architectural decision-making.
 
 ---
 
