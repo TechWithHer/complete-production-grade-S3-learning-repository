@@ -1,8 +1,11 @@
 # Chapter 20 — Production Capstone Project: Enterprise Amazon S3 Platform
 
 > **Difficulty:** Advanced (Course Capstone)
+
 > **AWS Services Used:** Amazon S3, IAM, Bucket Policies, Versioning, Lifecycle Rules, Event Notifications, Lambda, SNS, SQS, Replication, Object Lock, Access Points, Storage Classes, CloudWatch, CloudTrail, Storage Lens
+
 > **Lab Type:** End-to-End Project
+
 > **Production Relevance:** ★★★★★
 
 ---
